@@ -11,3 +11,6 @@ PBClient for Redis will provide you with the whole Redis functionality out of th
 
 Read more at:
 https://pybridge.net/product/pbredisclient/
+
+# Trial version
+[Download the Trial](https://pybridge.net/DownloadTrial.php?product_name=PBRedisClient)
